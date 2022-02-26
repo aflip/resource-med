@@ -1,8 +1,8 @@
 # resource-med
 Medical /Clinical /Healthcare datasets and data sources that I find interesting
 
-1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#healthcare)
-2. [The WHO Global Health depository (Has an API)](https://www.who.int/data/gho/info/gho-odata-api)
+1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#healthcare) This is a large list of resources, largely american and global north datasets
+2. [The WHO Global Health depository (Has an API)](https://www.who.int/data/gho/info/gho-odata-api) Lots of global south data
 3. [CDC's health statistics repository](https://data.cdc.gov/browse?category=NCHS&sortBy=last_modified)
 4. [KURIAS-ECG: a 12-lead electrocardiogram database with standardized diagnosis ontology](https://www.physionet.org/content/kurias-ecg/1.0/) The ontology is super useful
 5. [Indian Government's public data repository has a ton of data, freely accessible](https://data.gov.in/catalogsv2?format=json&offset=0&limit=9&sort%5B_score%5D=desc&query=health&exact_match=0)
