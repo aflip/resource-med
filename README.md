@@ -1,5 +1,6 @@
-# resource-med
-Medical /Clinical /Healthcare datasets and data sources that I find interesting
+# Awesome Medical /Clinical /Healthcare datasets and data sources 
+(that I find interesting)
+
 
 1. [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#healthcare) This is a large list of resources, largely american and global north datasets
 2. [The WHO Global Health depository (Has an API)](https://www.who.int/data/gho/info/gho-odata-api) Lots of global south data
